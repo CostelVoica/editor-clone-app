@@ -1,9 +1,6 @@
 (require 2htdp/image)
 (require 2htdp/universe)
 
-(require 2htdp/image)
-(require 2htdp/universe)
-
 
 (define-struct editor [pre post])
 
